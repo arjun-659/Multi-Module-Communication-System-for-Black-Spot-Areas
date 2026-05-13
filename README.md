@@ -1,0 +1,2 @@
+# Multi-Module-Communication-System-for-Black-Spot-Areas
+Arduino, LoRa, GSM, Embedded C – Built a communication system using LoRa and GSM modules for transmitting messages in zero-network coverage areas. – Implemented Arduino-based keypad input and wireless communication between transmitter and receiver modules. – Received Best Project Award at VBIT, Hyderabad for innovation and implementation quality.
